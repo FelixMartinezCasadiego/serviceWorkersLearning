@@ -1,0 +1,11 @@
+{
+  "name": "02-service-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "license": "ISC"
+}
